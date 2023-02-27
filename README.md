@@ -4,9 +4,8 @@ A GUI for calculating structural equivalencies of matrices (Euclidean Distance, 
 ![alt text](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
 
 Input:  
-Excel matrices. Values on diagonal are ignored.  
 Excel file with a single sheet automatically calculates intra-matrix distances/matchings, 2 sheets for inter-matrices distance/matching.  
-Errors thrown when the matrix isn't square or when matrices in the 2 sheets have different labels.
+Errors thrown when the matrix isn't square or when matrices in the 2 sheets have different labels. Values on diagonal are ignored.  
 
 
 Output:  
