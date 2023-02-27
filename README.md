@@ -1,7 +1,7 @@
 # STREQ
 A GUI for calculating structural equivalencies of matrices (Euclidean Distance, Jaccard Matching, Simple Matching).
 
-![alt text](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
+![screenshot](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
 
 Input:  
 Excel file with a single sheet automatically calculates intra-matrix distances/matchings, 2 sheets for inter-matrices distance/matching.  
