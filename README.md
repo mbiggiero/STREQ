@@ -1,5 +1,5 @@
 # STREQ
-A GUI for calculating structural equivalences of matrices (Euclidean Distance, Jaccard Matching, Simple Matching).
+A GUI for calculating structural equivalencies of matrices (Euclidean Distance, Jaccard Matching, Simple Matching).
 
 ![alt text](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
 
