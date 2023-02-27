@@ -9,6 +9,6 @@ Errors thrown when the matrix isn't square or when matrices in the 2 sheets have
 
 
 Output:  
-ED/JM/SM Inter: single .txt file with Absolute and Normalized results (additional Column/Row results for ED only);  
+ED/JM/SM Inter: single .txt file with Absolute and Normalized results (additional Column/Row results for ED only)  
 ED/JM/SM Intra: single .xls file with 6 sheets (Total/Row/Column x Normalized/Absolute)
 
