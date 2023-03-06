@@ -1,11 +1,13 @@
-# STREQ
-A GUI for calculating structural equivalencies of matrices (Euclidean Distance, Jaccard Matching, Simple Matching).
+# STREQ - STRuctural EQuivalence 
+A program for calculating the following forms of structural equivalence of matrice: Euclidean Distance, Jaccard Matching, Simple Matching.  
+These forms of structural equivalence can be calculated for binary and weighted networks, and within a single matrix or between two matrices. 
 
 ![screenshot](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
 
 Input:  
 Excel file with a single sheet automatically calculates intra-matrix distances/matchings, 2 sheets for inter-matrices distance/matching.  
-Errors thrown when the matrix isn't square or when matrices in the 2 sheets have different labels. Values on diagonal are ignored.  
+Errors thrown when the matrix isn't square or when matrices in the 2 sheets have different labels.  
+Note: values on diagonal are ignored.  
 
 
 Output:  
