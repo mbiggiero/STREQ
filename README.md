@@ -1,6 +1,6 @@
 # STREQ - STRuctural EQuivalence 
-A program for calculating the following forms of structural equivalence of matrice: Euclidean Distance, Jaccard Matching, Simple Matching.  
-These forms of structural equivalence can be calculated for binary and weighted networks, and within a single matrix or between two matrices.   
+A program for calculating the following forms of structural equivalence of matrice: Euclidean Distance, Jaccard Matching, Simple Matching. These forms of structural equivalence can be calculated for binary and weighted networks, and within a single matrix or between two matrices.  
+
 A deepening on these methods and references to network analysis literature, and a discussion on its applications to inter-firm networks can be found in the Methodological Appendix of the book "Inter-firm Networks", written by Lucio Biggiero & Robert Magnuszewski for the Springer Series on Relational Economics and Organizational Governance. It can be downloaded for free (by clicking on Back Matter) from https://link.springer.com/book/10.1007/978-3-031-17389-9
 
 ![screenshot](https://github.com/mbiggiero/STREQ/blob/main/screenshot.png?raw=true)
